@@ -2,7 +2,7 @@
 A JSP-based, e2e web-based procurement system, modelled on SAP's procurement module. We took the liberty to modify the workflow from the traditional, restricting SAP workflows.
 
 # Contributors
-1. Raj Joshi 
+1. Raj Joshi (https://github.com/Gangster0008)
 2. Saakshi More
 
 # Technology Stack
