@@ -1,0 +1,18 @@
+SMAP
+PRStatus_jsp.java
+JSP
+*S JSP
+*F
++ 0 PRStatus.jsp
+PRStatus.jsp
+*L
+5,35:49
+40,10:85
+49,10:95
+59,2:106
+60:108
+61:109,3
+62:112
+63,2:114
+64,18:116
+*E
